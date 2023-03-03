@@ -30,8 +30,6 @@ Para iniciar o projeto, é necessário possuir:
 
 ## 📚 Documentação (endpoints BACKEND)
 
-## :warning: Validando token nas requisições
-
 A porta utilizada para a requisição dos endpoints é 8080.
 
 ### 👨🏻‍🦱 Usuários
